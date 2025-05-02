@@ -93,4 +93,4 @@ make bonus
 
 ## 참고 자료
 
-* [프로젝트 명세](#subject.pdf)
+* [프로젝트 명세](subject.pdf)
